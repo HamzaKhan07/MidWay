@@ -35,7 +35,7 @@ Star⭐ the repo if you like what you see😉.
 
 ![App Screenshot](https://drive.google.com/uc?id=18e-_HAo-4n4GtMLIsCmWGxO-xB9W8-2I)
 
-![App Screenshot](https://drive.google.com/uc?id=1akKXcYjrIF-dcTVGCAMH35DZna1xpb-l)
+![App Screenshot](https://drive.google.com/uc?id=1pirUxVQ7-FEbsb7Ci4AqlOOnpKQlPj-X)
 
 ![App Screenshot](https://drive.google.com/uc?id=1ZNLAlqv4xjnGqlJ74Qtr2N-z6QlT3gMY)
 
