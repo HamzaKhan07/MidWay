@@ -45,7 +45,7 @@ Star⭐ the repo if you like what you see😉.
 
 ```http
   GET https://autosuggest.search.hereapi.com/v1/autosuggest?at=
-  $lat,$long&limit=5&lang=en&q=$pattern&apiKey=api_key
+  $lat,$long&limit=limit&lang=en&q=$pattern&apiKey=api_key
 ```
 
 | Parameter | Type     | Description                |
@@ -53,6 +53,7 @@ Star⭐ the repo if you like what you see😉.
 | `api_key` | `string` | **Required**. Your API key |
 | `lat` | `string` | **Required**. Latitute |
 | `long` | `string` | **Required**. Longitute |
+| `limit` | `string` | **Required**. Suggestions to fetch per character typed.|
 
 #### 📍 Get Routes between two geographical coordinates
 
