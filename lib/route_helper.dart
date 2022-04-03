@@ -5,7 +5,7 @@ class RouteHelper {
   Future getCoordinates(startLat, startLong, endLat, endLong) async {
     try {
       var url = Uri.parse(
-          'https://api.openrouteservice.org/v2/directions/driving-car?api_key=5b3ce3597851110001cf6248387c410cb70a408aac8ced092bba2f3b&start=$startLong,$startLat&end=$endLong,$endLat');
+          'https://api.openrouteservice.org/v2/directions/driving-car?api_key='YOUR API KEY'&start=$startLong,$startLat&end=$endLong,$endLat');
       http.Response response = await http.get(url);
 
       if (response.statusCode == 200) {
