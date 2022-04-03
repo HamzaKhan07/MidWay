@@ -1,0 +1,13 @@
+AIzaSyAmH7J5kYRHGgnn1p4dc5V65fsqFRnK0-Q
+
+<meta-data android:name="com.google.android.geo.API_KEY"
+               android:value="AIzaSyAmH7J5kYRHGgnn1p4dc5V65fsqFRnK0-Q"/>
+
+Our Place
+lat: 18.477670
+long: 73.887820
+
+NIBM
+lat: 18.477900
+long: 73.892059
+
