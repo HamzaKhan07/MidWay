@@ -5,7 +5,7 @@ class GetSuggestions {
   List data = [];
   Future<Iterable> getSuggest(pattern, lat, long) async {
     var url = Uri.parse(
-        'https://autosuggest.search.hereapi.com/v1/autosuggest?at=$lat,$long&limit=5&lang=en&q=$pattern&apiKey=GgPgg2Bg035saqg_FNJKqSAt8O3QQsEiB3WH5iBqZVk');
+        'https://autosuggest.search.hereapi.com/v1/autosuggest?at=$lat,$long&limit=5&lang=en&q=$pattern&apiKey='YOUR API KEY'');
     http.Response response = await http.get(url);
     if (response.statusCode == 200) {
       data = (json.decode(response.body)['items']);
