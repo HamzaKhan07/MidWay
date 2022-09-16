@@ -5,7 +5,7 @@ MidWay a mobile app which helps the group of friends ✌️ which are planning
 to meet or join together the best place 🏕️ to meet which is nearest from all
 friend's location or which is in the middle of their location 📍.
 
-Star⭐ the repo if you like what you see😉.
+Star⭐ the repo if you like what you see😉
 
 
 
