@@ -79,12 +79,12 @@ Flutter and Dart
 
 
 
-## ⚙️ Installation
+## ⚙️ Download
 
-Install "MidWay" from the below link:
+⬇️ Download "MidWay" from the below link:
 
 ```web
-  shorturl.at/suLQ1
+  https://drive.google.com/file/d/12OKOaAFF65Umer1uLgmo58ZnNVW1lFsl/view?usp=drive_link
 ```
     
 ## ✍️ Authors
